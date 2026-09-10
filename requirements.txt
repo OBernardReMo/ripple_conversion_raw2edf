@@ -1,0 +1,6 @@
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+neo==0.14.5
+numpy==1.26.2
+pyEDFlib==0.1.42
+requests==2.31.0
