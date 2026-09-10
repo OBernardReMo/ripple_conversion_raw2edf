@@ -3,11 +3,11 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jsmith/cardiac-risk-2026.git
-   cd cardiac-risk-2026
+   git clone https://github.com/OBernardReMo/ripple_conversion_raw2edf.git
+   cd ripple-conversion-raw2edf
    ```
  
-2. Install dependencies (requires [uv](https://docs.astral.sh/uv/)):
+2. Install dependencies:
    ```bash
    uv sync
    ```
